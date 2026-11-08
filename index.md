@@ -14,6 +14,7 @@ Contacto / Contact: david.cheuquen@gmail.com
 - [Cuenta Justa CLP](./cuenta_justa_clp/)
 - [CyberGrid](./cyber_grid/)
 - [EVP Void](./evp_void/)
+- [Fiesta](./impostor_latino/)
 - [HomeLib](./home_library/)
 - [IronPacer](./iron_pacer/)
 - [La Máscara de la Muerte Roja (The Masque of the Red Death)](./red_death_manga/)
